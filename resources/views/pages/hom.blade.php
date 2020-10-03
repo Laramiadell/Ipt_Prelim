@@ -9,5 +9,7 @@
 <body>
     <h1>HOME</h1>
 Home | <a href="{{url('/contact')}}">Contact</a> |<a href="{{url('/index')}}">Profile</a>
+
+<h1>This is the home page</h1>
 </body>
 </html>
